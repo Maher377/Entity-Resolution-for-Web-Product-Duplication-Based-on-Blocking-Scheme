@@ -29,3 +29,7 @@ In algorithm 5 for blocked pairs, we apply the MSM to the data set after the blo
 To run the code, you need to download the code and dataset, adjust the data importing part of the code so you can import the dataset, and fun the code in the following order:
 Algorithm 1 - Algorithm 2 - Algorithm 3 - Algorithm 4 - Configuration combination - Algorithm_5 - Algorithm_5 for blocked pairs
 
+## Related work
+This code uses ideas and code of the following related papers:
+ - Valstar, N., Frasincar, F., & Brauwers, G. (2021). APFA: Automated product feature alignment for duplicate detection. Expert Systems with Applications, 174, 114759.
+ - Vandic, D., Frasincar, F., Kaymak, U., & Riezebos, M. (2020). Scalable entity resolution for Web product descriptions. Information Fusion, 53, 103-111.
